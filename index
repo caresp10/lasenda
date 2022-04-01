@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head> 
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans" rel="stylesheet" type="text/css"></head>
+<link href="cssMenu.css" rel="stylesheet" type="text/css">
+<body>
+   <input type="image" id="image" src="images/logo_.jpg" link href="index.html" >
+   <input type="image" id="image" src="images/horario.jpg" link href="" >
+   <nav>
+      <a href="index.html">Inicio</a>
+      <a href="libros.html">Libros</a>
+      <a href="bilbias.html">Biblias</a>
+      <a href="regalos.html">Regalos</a>
+      <a href="contacto.html">Contáctenos</a>
+      <div class="animation start-home"></div>
+   </nav>
+ <h1>¿Quienes Somos?</h1>
+ <h2>Somos una libreria cristiana dedicada a la distribución
+    de literatura edificante para el alma y el espíritu.<p>Creemos en Jesucristo como único y suficiente salvador, en el Espiritu Santo como restaurador de familias y en Dios quien es lo primordial para nuestra vida!!</p>
+   <p>Aquí encontrará lo mejor de libros, biblias, regalos y muchos más!!</p></h2>
+</body>
+</html>
